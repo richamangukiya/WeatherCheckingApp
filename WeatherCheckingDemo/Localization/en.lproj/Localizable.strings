@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  WeatherCheckingDemo
+
+  Created by Richa Mangukiya on 10/10/24.
+  
+*/
+
+
+"Enter city name" = "Enter city name";
+"Fetching weather..." = "Fetching weather...";
+"Get Weather for Current Location" = "Get Weather for Current Location";
+"Weather App" = "Weather App";
